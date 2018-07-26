@@ -22,7 +22,7 @@ public class SampleThree {
 				values.parallelStream()
 						.mapToInt(SampleThree::doubleIt)
 						.sum()
-				
+				//
 				);
 	}
 
